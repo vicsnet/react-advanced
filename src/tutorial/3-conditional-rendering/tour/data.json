@@ -1,14 +1,44 @@
-
-
- [{
-    
-    "name": "Vincent Adesanmi",
-    "age": "Feb 5" 
-},
+[
     {
-        
-        "name": "Oloniyo Peter",
-        "age": "June 5"
+    "id" : 1,
+    "title": "Jara Beach Resort",
+    "price": "$100",
+    "about": "Jara Beach Resort is arguably the best beach resort in Lagos at the moment. The resort stands out with her offering of an all-inclusive stay at the beachfront property.",
+    "url": "https://dl.airtable.com/.attachments/6c24084000a3777064c5200a8c2ae931/04081a3e/ireland.jpeg"
+    },
+    {
+    "id" : 2,
+    "title": "La Campagne Tropicana",
+    "price": "$100",
+    "about": "La Campagne Tropicana is another lovely beach resort to visit in Lagos.It is located towards the outskirts of Lagos and it can take a while to get there, especially if you are travelling from Lagos Mainland. The appeal of La Campagne Tropicana is the clean and beautiful beach the property is on, as well as the availability of several activities to engage in. This is the only other location in Lagos that I think deserves to call itself a resort.",
+    "image": "https://i0.wp.com/www.travelwithapen.com/wp-content/uploads/2019/04/La-Campagne-Tropicana-Lagos.jpeg?resize=1024%2C769&ssl=1"
+    },
+    {
+    "id" : 3,
+    "title": "Tarkwa Bay",
+    "price": "$100",
+    "about": "Tarkwa Bay is another beach that I can recommend a visit to. While I didn’t particularly enjoy being in this beach area (don’t take my experience as a blueprint, many people love the beach here), I absolutely loved spending time in the cabin and the areas surrounding it.Also, the beach area behind the Jaybee Beach Camp is actually much nicer, so be sure to check it out. Tarkwa Bay is accessible via boat f rom Fiki Marina in Victoria Island." ,
+    "image": "https://i0.wp.com/www.travelwithapen.com/wp-content/uploads/2020/08/Tarkwa-Bay-Beach-scaled.jpg?resize=1044%2C1536&ssl=1"
+    },
+    {
+    "id" : 4,
+    "title": "Lakowe Lakes Golf and Country Estate",
+    "price": "$100",
+    "about": "Lakowe Lakes Golf and Country Estate is a great place for golf lovers in Lagos. Here, you can enjoy a game of golf or simply spend your time relaxing in any of the available accommodation options. My visit to Lakowe Lakes was wonderful, however, I have read some not-so-pleasant reviews lately",
+    "image": "https://i0.wp.com/www.travelwithapen.com/wp-content/uploads/2019/02/Unravelling_Nigeria_Lakowe_Golf1.jpeg?resize=1024%2C967&ssl=1"
+    },
+    {
+    "id" : 5,
+    "title": "Lekki Conservation Centre",
+    "price": "$100",
+    "about": "If you google ‘fun places to visit in Lagos’, Lekki Conservation Centre is likely to top the list. The truth is that there aren’t that many places like this in Lagos – and there should be. The main attraction of the Conservation Centre these days is the canopy walkway however, if you are anything like me, you’ll love the board walk even more.",
+    "image": "https://i0.wp.com/www.travelwithapen.com/wp-content/uploads/2018/12/Lekki-Conservation-Center-Monkey-scaled.jpg?resize=1024%2C744&ssl=1"
+    },
+    {
+    "id" : 6,
+    "title": " Nike Art Gallery",
+    "price": "$100",
+    "about": "This art gallery is also a visitor’s favourite in Lagos. It is a three-story building filled with artworks from all over the country, all of which, are available for purchase. At the time of this writing, entry into Nike Art Gallery is free, which adds to the appeal for visitors on a budget.",
+    "image": "https://i0.wp.com/www.travelwithapen.com/wp-content/uploads/2020/08/Nike-Art-Gallery-scaled.jpg?resize=691%2C1024&ssl=1"
     }
-    
-]
+    ]
